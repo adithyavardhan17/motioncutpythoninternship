@@ -1,0 +1,9 @@
+{
+  "expenses": [
+    {
+      "amount": 500.0,
+      "description": "shoping",
+      "category": "shop"
+    }
+  ]
+}
